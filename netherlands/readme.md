@@ -18,10 +18,15 @@
     حداقل ها رو با توجه به مطالب بالا رعایت کنن که خب خوبه چون مبلغ کمی
     نمیشه.. اگه یه مبلغی هم دیدی و دوس داشتی بدونی با کسر مالیات و احتساب
     [قانون ۳۰٪](https://www.iamsterdam.com/en/living/take-care-of-official-matters/highly-skilled-migrants/thirty-percent-ruling) یا بدونش اون مبلغ چقدر میشه هم از [همچین جایی](https://www.blueumbrella.nl/dutch-tax-calculator) میتونی راحت حساب کنی و اینکه جز لینکدین پیشنهاد میکنم اینا رو هم بگردی..
+
     [stackoverflow.com](www.stackoverflow.com)
+
     [indeed.com](www.indeed.com)
+
     [glassdoor.com](glassdoor.com)
+
     [relocate.me](relocate.me)
+
     یه پیشنهاد دیگه.. اون شرکتایی که ننوشتن اسپانسر میشن یا نه رو هم اپلای کن.. اگه نمیشدن که خب خودشون میدونن نمیشن.. ولی شانست رو کم نکن با اپلای نکردن برای اونا
 
 # Interview Tips
