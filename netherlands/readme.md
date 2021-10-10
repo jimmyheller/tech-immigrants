@@ -1,6 +1,7 @@
-# Netherlands, Highly Skilled Immigrant FAQ
+# سوالات متداول مربوط به مهاجرت کاری به هلند
 
-Hello dear reader, Here are some tips for you to start your immigration journey to the netherlands as a **Highly Skilled Immigrant**
+سلام و درود بر شما
+در این فایل پاسخ به سوالات متداولی که برای دوستان پیش میاد معمولا رو سعی کردیم از پیام های گروه استخراج کنیم تا راحت تر باشه دسترسی بهشون
 
 # Job Search
 
@@ -69,7 +70,7 @@ Negotiate a higher offer by speaking to a former Uber recruiter
 پول اب ۳۰ تا۵۰
 بیمه ماشین ۴۵
 اسپاتیفای فمیلی ۱۵
-برق و گاز (خونه ما) ۱۲۰
+برق و گاز ۱۲۰
 نت فلیکس ۱۱
 مالیات ماشین (بسته به ماشین) ۲۰
 غذا و خورد و خوراک برای هر نفر ۲۰۰ تا ۳۰۰ یورو
