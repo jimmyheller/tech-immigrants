@@ -3,7 +3,7 @@
 # مهاجرین فناوری
 
 ## اهداف
-> ما اینجاییم  تا به همدیگه حمایت موثر بدیم و با شنیدن تجربه‌های موفق و ناموفق همدیگه، بتونیم در مورد مهاجرت آگاهانه تصمیم بگیریم. 
+ ما اینجاییم  تا به همدیگه حمایت موثر بدیم و با شنیدن تجربه‌های موفق و ناموفق همدیگه، بتونیم در مورد مهاجرت آگاهانه تصمیم بگیریم. 
 
 این ریپازیتوری با هدف جمع آوری اطلاعات پرتکرار در خصوص مهاجرت ایجاد شده. 
 
@@ -21,4 +21,17 @@
 [کانال تلگرام](https://t.me/TwitterImmigrant)
 [اکانت توییتر](https://twitter.com/tech_immigrants)
 
+
+## کتاب‌
+
+### مصاحبه رفتاری 
+
+| نام کتاب      | 
+| ----------- |
+| 1. Surviving the Whiteboard Interview: A Developer’s Guide to Using Soft Skills to Get Hired      |
+| 2. Cracking the Behavioral Interviews: for Software Engineers    |
+| 3. The STAR Method Explained: Proven Technique to Succeed at Interview   |
+| 4. The Pragmatic Programmer: Your Journey To Mastery   |
+
 </div>
+
