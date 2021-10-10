@@ -29,9 +29,7 @@
 ## "Have you been interviewing for anywhere else recently?"
 
 https://www.reddit.com/r/recruitinghell/comments/puivlb/have_you_been_interviewing_for_anywhere_else/?utm_medium=android_app&utm_source=share
-چقد خوب بود و مفید.. خیلی طولانیه ولی خیلیشم خوندم..
-
-خلاصش + برداشت خودم:
+خلاصش + برداشت شخصی:
 
 1. اعتماد به نفس کنار مظلوم نبودن (که با اگاهی و اطلاعات و تجربه کسب میشه)
 
