@@ -26,11 +26,12 @@
 
 ### مصاحبه رفتاری 
 
-| نام کتاب      | 
-| ----------- |
-| 1. Surviving the Whiteboard Interview: A Developer’s Guide to Using Soft Skills to Get Hired      |
-| 2. Cracking the Behavioral Interviews: for Software Engineers    |
-| 3. The STAR Method Explained: Proven Technique to Succeed at Interview   |
-| 4. The Pragmatic Programmer: Your Journey To Mastery   |
+| #     | نام کتاب      |
+| ----------- | ----------- |
+| 1     | Surviving the Whiteboard Interview: A Developer’s Guide to Using Soft Skills to Get Hired      |
+| 2   | Cracking the Behavioral Interviews: for Software Engineers    |
+| 3  | The STAR Method Explained: Proven Technique to Succeed at Interview   |
+| 4  | The Pragmatic Programmer: Your Journey To Mastery   |
+| 5 | Interview Skills that Win the Job: Simple Techniques for Answering All the Tough Questions |
 
 </div>
