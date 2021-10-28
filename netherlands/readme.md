@@ -1,3 +1,5 @@
+<div dir='rtl'>
+
 # سوالات متداول مربوط به مهاجرت کاری به هلند
 
 سلام و درود بر شما
@@ -115,3 +117,17 @@ Negotiate a higher offer by speaking to a former Uber recruiter
 اما نمیتونی بیمه‌ات رو کمتر از ۹۰ یورو بکنی. نمیتونی پول اجاره خونه ندی.
 
 امیدوارم دید خوبی بهت بده.
+
+# لینک‌های مفید
+
+## اجاره محل سکونت
+| سایت      | 
+| ----------- |
+| 1. [kamer](https://www.kamer.nl)     |
+| 2. [rentola](https://rentola.com)    |
+| 3. [uniplaces](https://www.uniplaces.com)   |
+| 4. [kamernet](https://kamernet.nl/en)   |
+| 5. [pararius](www.pararius.com)   |
+| 6. [clawq](https://clawq.com)   |
+
+</div>
