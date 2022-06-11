@@ -34,7 +34,6 @@ Application to work as a highly skilled migrant and for the European Blue Card
 
 [قانون ۳۰٪](https://www.iamsterdam.com/en/living/take-care-of-official-matters/highly-skilled-migrants/thirty-percent-ruling) یا بدونش اون مبلغ چقدر میشه هم از [همچین جایی](https://www.blueumbrella.nl/dutch-tax-calculator) میتونی راحت حساب کنی و اینکه جز لینکدین پیشنهاد میکنم اینا رو هم بگردی..
 
-[stackoverflow.com](www.stackoverflow.com)
 
 [indeed.com](www.indeed.com)
 
