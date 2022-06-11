@@ -34,4 +34,45 @@
 | 4  | The Pragmatic Programmer: Your Journey To Mastery   |
 | 5 | Interview Skills that Win the Job: Simple Techniques for Answering All the Tough Questions |
 
+  
+  
+  ## لینک
+
+### مصاحبه فنی
+  بجز لینک هایی که این پایین گذاشته شدن یه ریپازیتوری خفن دیگه از MohsenNooriArdestani@ هست که [اینجا](https://github.com/MohsenNooriArdestani/awesome-interview-questions) میتونید بهش نگاه کنید که توش کلی سوالای فنی مصاحبه جمع آوری شده
+  
+ | [Binary Tree — Interview Questions and Practice Problems](https://t.co/XDSX5HOrz7)   |
+  
+ | [Top 40 Binary Tree Coding Interview Questions for Programmers](https://t.co/Ue9kxdLXTD)   |
+  
+ | [27 Binary Tree Interview Questions (SOLVED with CODE) Devs Must Know](https://t.co/jDnfgDuHsF)   |
+  
+ | [25 Software Design Interview Questions to Crack Any Programming and Technical Interviews](https://t.co/m0JCTgFed1)   |
+  
+ | [6 Common System Design Interview Questions (With Example Answers)](https://t.co/umPz0EytSG)   |
+  
+ | [Top 10 System Design Interview Questions and Answers](https://t.co/oX3u7YJ68c)   |
+  
+ | [Top 50 Array Coding Problems for Interviews](https://t.co/ummdJ5kL6g)   |
+  
+ | [Top 30 Array Interview Questions and Answers for Programmers](https://t.co/L7Ubr3riz1)   |
+  
+ | [20+ Array Coding Problems and Questions from Programming Interviews](https://t.co/DlWXUc5C0Z)   |
+  
+ | [10 questions software developers should expect in a job interview](https://t.co/VMjX7fG78B)   |
+  
+ | [17 Top Interview Questions to Ask Software Engineers (2021)](https://t.co/t4sZFdcKnP)   |
+  
+ | [Software Engineer Interview Questions to Hire the Right Developer](https://t.co/OInSEDBtWn)   |
+  
+ | [Top 20 Linked List Interview Question](https://t.co/HxMxIITUwO)   |
+  
+ | [Top 17 Linked List Interview Questions & Answers](https://t.co/CwzxzppxDf)   |
+  
+ | [10 Must-Know Linked List Interview Questions](https://t.co/wdFHETsUvR)   |
+  
+  
+  ## مواد لازم:
+  
+  [دانلود نمونه نامه ریکامندیشن(یا همون توصیه نامه) برای نشون دادن سابقه کار از طرف کارفرماهای قبلی ](https://github.com/ehsanamd/tech-immigrants/raw/master/recommandation%20(1).docx)
 </div>
