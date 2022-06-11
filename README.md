@@ -39,7 +39,7 @@
   ## لینک
 
 ### مصاحبه فنی
-  بجز لینک هایی که این پایین گذاشته شدن یه ریپازیتوری خفن دیگه از @MohsenNooriArdestani هست که [اینجا](https://github.com/MohsenNooriArdestani/awesome-interview-questions) میتونید بهش نگاه کنید که توش کلی سوالای فنی مصاحبه جمع آوری شده
+  بجز لینک هایی که این پایین گذاشته شدن یه ریپازیتوری خفن دیگه از MohsenNooriArdestani@ هست که [اینجا](https://github.com/MohsenNooriArdestani/awesome-interview-questions) میتونید بهش نگاه کنید که توش کلی سوالای فنی مصاحبه جمع آوری شده
   
  | [Binary Tree — Interview Questions and Practice Problems](https://t.co/XDSX5HOrz7)   |
   
