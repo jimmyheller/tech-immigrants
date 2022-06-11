@@ -68,4 +68,9 @@
  | [Top 17 Linked List Interview Questions & Answers](https://t.co/CwzxzppxDf)   |
   
  | [10 Must-Know Linked List Interview Questions](https://t.co/wdFHETsUvR)   |
+  
+  
+  ## مواد لازم:
+  
+  [دانلود نمونه نامه ریکامندیشن(یا همون توصیه نامه) برای نشون دادن سابقه کار از طرف کارفرماهای قبلی ](https://github.com/ehsanamd/tech-immigrants/raw/master/recommandation%20(1).docx)
 </div>
